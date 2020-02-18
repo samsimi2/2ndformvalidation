@@ -1,0 +1,41 @@
+.box{
+    border: solid;
+    border-width: 3px;
+    max-width: 9cm;
+    background-color: gray;
+}
+p{
+    font-size:  15px;
+    font-family: comic;
+    color: whitesmoke;
+    margin-left: 1cm;
+}
+label{
+    font-size: 13px;
+    font-family: comic;
+    color: whitesmoke;
+    margin-left: 1cm;
+}
+#login{
+    margin-left: 20px;
+    width: 2in;
+}
+#inpass{
+    margin-left: 1px;
+    width: 2in;
+}
+#conpass{
+    margin-left: 1px;
+    width: 1.51in;
+}
+#inemail{
+    margin-left: 20px;
+    width: 2in;
+}
+select{
+    margin-left: 13px;
+    width: 2.05in;
+}
+#reg{
+    margin-left: 1cm;
+}
